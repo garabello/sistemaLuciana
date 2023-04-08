@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/22 21:03:56.000.702,=C:\Users\garab\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 21:04:15.000.623,=C:\Users\garab\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 21:33:27.000.395,=C:\Users\garab\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 21:37:42.000.921,C:\Seven Vendas(2)\UPrincipal.dfm=C:\Users\garab\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/22 21:37:42.000.921,C:\Seven Vendas(2)\UPrincipal.pas=C:\Users\garab\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/22 21:37:52.000.217,C:\Seven Vendas(2)\Luciana.dproj=C:\Users\garab\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/22 21:53:37.000.494,=C:\Seven Vendas(2)\Unit2.pas</Transaction>
+    <Transaction>2023/03/02 15:39:06.000.809,=C:\Seven Vendas(2)\Unit3.pas</Transaction>
+    <Transaction>2023/03/06 14:56:47.000.704,=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/06 14:57:20.000.881,C:\Seven Vendas(2)\view.pageEntradaEstoque.pas=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/06 14:57:20.000.881,C:\Seven Vendas(2)\view.pageEntradaEstoque.dfm=C:\Seven Vendas(2)\Unit1.dfm</Transaction>
+    <Transaction>2023/03/14 09:27:09.000.190,=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 09:46:59.000.689,C:\Seven Vendas(2)\Unit1.dfm=C:\Seven Vendas(2)\UVendas.dfm</Transaction>
+    <Transaction>2023/03/14 09:46:59.000.689,C:\Seven Vendas(2)\Unit1.pas=C:\Seven Vendas(2)\UVendas.pas</Transaction>
+    <Transaction>2023/03/14 10:02:38.000.587,=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/14 10:04:08.000.338,C:\Seven Vendas(2)\UItensVendas.dfm=C:\Seven Vendas(2)\Unit1.dfm</Transaction>
+    <Transaction>2023/03/14 10:04:08.000.338,C:\Seven Vendas(2)\UItensVendas.pas=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/15 14:18:36.000.009,=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/15 14:19:27.000.812,C:\Seven Vendas(2)\Unit1.pas=C:\Seven Vendas(2)\Modelo\Modelo.DMLuciana.pas</Transaction>
+    <Transaction>2023/03/15 14:19:27.000.812,C:\Seven Vendas(2)\Unit1.dfm=C:\Seven Vendas(2)\Modelo\Modelo.DMLuciana.dfm</Transaction>
+    <Transaction>2023/03/16 20:20:08.000.747,C:\Seven Vendas(2)\Unit2.pas=C:\Seven Vendas(2)\page.cliente.pas</Transaction>
+    <Transaction>2023/03/16 20:20:08.000.747,C:\Seven Vendas(2)\Unit2.dfm=C:\Seven Vendas(2)\page.cliente.dfm</Transaction>
+    <Transaction>2023/03/16 20:21:22.000.202,C:\Seven Vendas(2)\Unit3.dfm=C:\Seven Vendas(2)\page.produto.dfm</Transaction>
+    <Transaction>2023/03/16 20:21:22.000.202,C:\Seven Vendas(2)\Unit3.pas=C:\Seven Vendas(2)\page.produto.pas</Transaction>
+    <Transaction>2023/03/16 20:22:17.000.645,C:\Seven Vendas(2)\UVendas.pas=C:\Seven Vendas(2)\page.vendas.pas</Transaction>
+    <Transaction>2023/03/16 20:22:17.000.645,C:\Seven Vendas(2)\UVendas.dfm=C:\Seven Vendas(2)\page.vendas.dfm</Transaction>
+    <Transaction>2023/03/17 12:03:33.000.681,=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/17 12:15:33.000.171,=C:\Seven Vendas(2)\Utils\utisl.venda.itens.pas</Transaction>
+    <Transaction>2023/03/21 20:19:13.000.619,=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/21 20:19:55.000.686,C:\Seven Vendas(2)\interfaces\vendas.interfaces.pas=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/21 20:20:35.000.229,=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/21 20:20:50.000.390,C:\Seven Vendas(2)\interfaces\Venda.types.pas=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/21 20:21:08.000.369,C:\Seven Vendas(2)\interfaces\Venda.Eventos.pas=C:\Seven Vendas(2)\interfaces\Venda.types.pas</Transaction>
+    <Transaction>2023/03/21 22:24:22.000.667,=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/21 22:25:16.000.730,C:\Seven Vendas(2)\Utils\util.finaliza.venda.pas=C:\Seven Vendas(2)\Unit1.pas</Transaction>
+    <Transaction>2023/03/24 17:19:23.000.952,=C:\Seven Vendas(3)\Unit1.pas</Transaction>
+    <Transaction>2023/03/24 17:21:12.000.278,C:\Seven Vendas(3)\Relatorio\Cliente\URelatoiro.dfm=C:\Seven Vendas(3)\Unit1.dfm</Transaction>
+    <Transaction>2023/03/24 17:21:12.000.278,C:\Seven Vendas(3)\Relatorio\Cliente\URelatoiro.pas=C:\Seven Vendas(3)\Unit1.pas</Transaction>
+    <Transaction>2023/03/24 22:31:15.000.748,=C:\Seven Vendas(3)\Unit1.pas</Transaction>
+    <Transaction>2023/03/24 22:31:53.000.731,C:\Seven Vendas(3)\Unit1.dfm=C:\Seven Vendas(3)\Relatorio\rel.produto.dfm</Transaction>
+    <Transaction>2023/03/24 22:31:53.000.731,C:\Seven Vendas(3)\Unit1.pas=C:\Seven Vendas(3)\Relatorio\rel.produto.pas</Transaction>
+    <Transaction>2023/03/24 23:14:02.000.814,=C:\Seven Vendas(3)\Unit1.pas</Transaction>
+    <Transaction>2023/03/24 23:14:23.000.600,C:\Seven Vendas(3)\Unit1.pas=C:\Seven Vendas(3)\Relatorio\rel.vendas.pas</Transaction>
+    <Transaction>2023/03/24 23:14:23.000.600,C:\Seven Vendas(3)\Unit1.dfm=C:\Seven Vendas(3)\Relatorio\rel.vendas.dfm</Transaction>
+    <Transaction>2023/03/24 23:19:15.000.814,=C:\Seven Vendas(3)\Unit1.pas</Transaction>
+    <Transaction>2023/03/24 23:20:06.000.197,C:\Seven Vendas(3)\Unit1.pas=C:\Seven Vendas(3)\page.venda.periodo.pas</Transaction>
+    <Transaction>2023/03/24 23:20:06.000.197,C:\Seven Vendas(3)\Unit1.dfm=C:\Seven Vendas(3)\page.venda.periodo.dfm</Transaction>
+    <Transaction>2023/03/27 19:35:45.000.365,=C:\Seven Vendas(3)\Unit1.pas</Transaction>
+    <Transaction>2023/03/27 19:37:16.000.067,C:\Seven Vendas(3)\page.Cadasro.usuario.dfm=C:\Seven Vendas(3)\Unit1.dfm</Transaction>
+    <Transaction>2023/03/27 19:37:16.000.067,C:\Seven Vendas(3)\page.Cadasro.usuario.pas=C:\Seven Vendas(3)\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
